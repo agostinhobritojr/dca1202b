@@ -26,4 +26,16 @@ $ gcc main.c -o main
 $ ./main
 ```
 
-Aloha!
+As vantagens de usar listas numeradas
+
+1. tem numeros
+2. mostra ordem
+3. sei lah
+
+As vantagens de usar listas nao numeradas
+
+* alo
+* maria
+** josefina
+* jose
+
