@@ -10,7 +10,7 @@ Este é o **primeiro** _parágrafo_ do texto. Isto eh um link
 
 Este é o segundo `parágrafo` do texto
 
-<img src="imagens/print.png" width="500">
+![alo](imagens/print.png){:class="img-responsive"}
 
 ### titulo 3
 
