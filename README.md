@@ -36,6 +36,6 @@ As vantagens de usar listas nao numeradas
 
 * alo
 * maria
- * josefina
+  * josefina
 * jose
 
