@@ -19,4 +19,11 @@ int main(void){
 }
 ```
 
+Para compilar e executar, basta digitar a seguinte sequencia de comandos:
+
+```shell
+$ gcc main.c -o main
+$ ./main
+```
+
 Aloha!
