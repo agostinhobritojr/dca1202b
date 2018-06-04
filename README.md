@@ -10,6 +10,8 @@ Este é o **primeiro** _parágrafo_ do texto. Isto eh um link
 
 Este é o segundo `parágrafo` do texto
 
+![Print de tela](imagens/print.png)
+
 ### titulo 3
 
 Como fazer para compilar e executar o programa desse repositorio. Primeiro, baixe o código-fonte
