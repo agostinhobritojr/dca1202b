@@ -10,7 +10,7 @@ Este é o **primeiro** _parágrafo_ do texto. Isto eh um link
 
 Este é o segundo `parágrafo` do texto
 
-![Print de tela](imagens/print.png =200x100 )
+![Print de tela](imagens/print.png  | width=100 )
 
 ### titulo 3
 
