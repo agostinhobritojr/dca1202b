@@ -12,7 +12,7 @@ Este é o segundo `parágrafo` do texto
 
 Como fazer para compilar e executar o programa desse repositorio. Primeiro, baixe o código-fonte
 
-```
+```c
 #include <stdio.h>
 int main(void){
   printf("hello, world!\n");
