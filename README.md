@@ -4,7 +4,9 @@ Este eh um exemplo de documentação em markdown
 
 ## introducao
 
-Este é o **primeiro** _parágrafo_ do texto.
+Este é o **primeiro** _parágrafo_ do texto. Isto eh um link
+
+[link to Google!](http://google.com)
 
 Este é o segundo `parágrafo` do texto
 
